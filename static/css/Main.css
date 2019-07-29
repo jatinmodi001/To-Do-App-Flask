@@ -1,0 +1,35 @@
+body
+{
+	font-family:'Times New Roman';
+}
+th
+{
+	font-size:20px;
+	padding:5px;
+}
+td
+{
+    text-align: center;
+    padding: 5px;
+    width:150px;
+}
+.for
+{
+   border:solid;
+}
+#content
+{
+    
+    width:20%;
+    height: 50%;
+}
+a
+{
+	color:blue;
+	text-decoration:none;
+}
+a:hover
+{
+	color:purple;
+}	
+	
